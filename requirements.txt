@@ -1,0 +1,3 @@
+africastalking==1.2.7
+Flask==3.0.3
+python-dotenv==1.0.1
